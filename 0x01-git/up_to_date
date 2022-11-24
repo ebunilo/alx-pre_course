@@ -1,0 +1,10 @@
+Git commands used:
+git pull
+git push
+git commit
+git add 
+git checkout
+git branch
+git status
+git --amend -m "new message"
+
